@@ -1,0 +1,17 @@
+<!doctype html>
+<html ng-app="Angular">
+    <head>
+        <meta charset="UTF-8">
+        <title>Angular Questions And Answers</title>
+        <script src="../lib/angular/angular.min.js"></script>
+        <script src="../js/AngularController.js"></script>
+    </head>
+    <body ng-controller="AngularController">
+        <ul>
+        <li ng-repeat="item in qna">
+            <b>Question</b> - {{item.question}}<br>
+            <b>Answer</b>   - {{item.answer}}
+        </li>    
+        </ul>
+    </body>
+</html>
