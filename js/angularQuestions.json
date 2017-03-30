@@ -1,10 +1,6 @@
-[{
-        'question' : 'What is Angular?',
-        'answer' : 'It is a javascript framework that allows you to make single page applications quickly. By framework I mean that '+
-        'instead of writing code in anyway you want you write code in a standard set by framework. Doing this you can take advantage of some '+ 
-        'buit in features proivded by Angular.'
+[{"question" : "What is Angular?",
+        "answer" : "It is a javascript framework that allows you to make single page applications quickly. By framework I mean that instead of writing code in anyway you want you write code in a standard set by framework. Doing this you can take advantage of some buit in features proivded by Angular."
     },  
-    {'question' : 'List down important features of Angular JS?',
-    'answer' : 'Templating, Filters, Two way data binding - meaning form elements are tied to data, Excellent templating engine,'+
-     'Handle data manipulations, Supports MVC, Filters, Allows you to create modules - Modules allows you to break you application into smaller pieces which helps it to maintain easily., Routes, Controllers'}
+    {"question" : "List down important features of Angular JS?",
+    "answer" : "Templating, Filters, Two way data binding - meaning form elements are tied to data, Excellent templating engine, Handle data manipulations, Supports MVC, Filters, Allows you to create modules - Modules allows you to break you application into smaller pieces which helps it to maintain easily., Routes, Controllers"}
  ]
